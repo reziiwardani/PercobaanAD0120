@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pelatihan 3</string>
+    <string name="nama1">Data Fakultas</string>
+    <string name="nama2">Data Jurusan</string>
+    <string name="nama3">Data Mahasiswa</string>
+    <string name="tambah">Tambah Fakultas</string>
+    <string name="data">Data Belum Ada</string>
+    <string name="nama4">Nama Fakultas</string>
+    <string name="Fakultas">Fakultas</string>
+    <string name="tv">Fakultas</string>
+    <string name="nama7">Jurusan</string>
+    <string name="nama8">Fakultas</string>
+    <string name="tvJ">JURUSAN</string>
+    <string name="nama9">Nama Jurusan</string>
+    <string name="nama10">Pilih Fakultas</string>
+    <string name="tambahJ">Tambah Jurusan</string>
+    <string name="tvM">MAHASISWA</string>
+    <string name="nama11">Pilih Jurusan</string>
+    <string name="namaM">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="tgl">Tgl Lahir</string>
+    <string name="nama12">Jenis Kelamin</string>
+    <string name="namaMa">Nama Mahasiswa</string>
+    <string name="namaJurusan">Nama Jurusan</string>
+    <string name="tambahM">Tambah Mahasiswa</string>
+    <string name="namaNim">NIM</string>
+    <string name="namaTgl">Tgl Lahir</string>
+    <string name="namaJk">Jenis Kelamin</string>
+    <string name="browser">Browser</string>
+</resources>
